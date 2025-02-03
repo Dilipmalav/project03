@@ -31,7 +31,7 @@ background-image: url('<%=ORSView.APP_CONTEXT%>/img/jeshoots.jpg');
 <%@include file="Header.jsp" %>
 </div>
 <div class="text-cs1">
-<center><h1 style="padding-top: 15%; color:red; font-size: 50px;"><b>Welcome To Online Result System</b></h1></center>
+<center><h1 style="padding-top: 15%; color:red; font-size: 50px;"><b>Welcome To Online</b></h1></center>
 </div>
 <div class="footer">
 <%@include file="FooterView.jsp" %>
